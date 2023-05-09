@@ -1,3 +1,2 @@
 # Controle de Impostos
-Nesse código o principal objetivo foi trabalhar com Herança e Polimorfismo. O objetivo do programa é ler os dados de N contribuintes (N fornecido pelo usuário), os quais podem ser pessoa física ou pessoa jurídica, e depois mostrar o valor do imposto pago por cada um, bem como o total de imposto arrecadado. 
-<b>(Código executado apenas  em Console)</b>
+O principal objetivo deste código foi trabalhar com conceitos importantes de programação orientada a objetos, tais como Herança e Polimorfismo. A aplicação consiste em ler dados de N contribuintes (sendo N fornecido pelo usuário), que podem ser classificados como pessoa física ou pessoa jurídica, e posteriormente apresentar o valor do imposto pago por cada um, além do total arrecadado. <b>É importante ressaltar que o código foi desenvolvido para ser executado exclusivamente no Console.</b>
